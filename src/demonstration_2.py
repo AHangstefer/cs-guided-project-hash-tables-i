@@ -67,6 +67,13 @@ if sorted:
     continue
 else:
     return false
+
+
+TIME & SPACE
+
+time: O(N) O(word)
+space: O(order)
+
 """
 def are_words_sorted(words, alpha_order):
     """
